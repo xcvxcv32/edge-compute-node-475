@@ -1,0 +1,1 @@
+const service_tcum = <T>(args: T): T => { return args; };
