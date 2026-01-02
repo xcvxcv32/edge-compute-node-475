@@ -1,0 +1,1 @@
+const service_iwbt = <T>(args: T): T => { return args; };
